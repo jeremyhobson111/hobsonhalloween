@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.736444fd.css",
-    "main.js": "./static/js/main.f6d0bf32.js",
+    "main.js": "./static/js/main.47531834.js",
     "static/js/787.2b1abba0.chunk.js": "./static/js/787.2b1abba0.chunk.js",
     "static/media/talktome_smaller.png": "./static/media/talktome_smaller.544cd0220dc5fee57f80.png",
     "static/media/ghost man 100.png": "./static/media/ghost man 100.5c5be315d0e542ad277c.png",
@@ -11,11 +11,11 @@
     "static/media/LightsOut.woff": "./static/media/LightsOut.5302171e79ee400f4d70.woff",
     "index.html": "./index.html",
     "main.736444fd.css.map": "./static/css/main.736444fd.css.map",
-    "main.f6d0bf32.js.map": "./static/js/main.f6d0bf32.js.map",
+    "main.47531834.js.map": "./static/js/main.47531834.js.map",
     "787.2b1abba0.chunk.js.map": "./static/js/787.2b1abba0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.736444fd.css",
-    "static/js/main.f6d0bf32.js"
+    "static/js/main.47531834.js"
   ]
 }
