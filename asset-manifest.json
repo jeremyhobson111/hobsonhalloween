@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.f7484582.css",
-    "main.js": "./static/js/main.93cc33a2.js",
+    "main.css": "./static/css/main.18742ede.css",
+    "main.js": "./static/js/main.e4996ee8.js",
     "static/js/787.2b1abba0.chunk.js": "./static/js/787.2b1abba0.chunk.js",
     "static/media/talktome_smaller.png": "./static/media/talktome_smaller.544cd0220dc5fee57f80.png",
     "static/media/ghost man 100.png": "./static/media/ghost man 100.5c5be315d0e542ad277c.png",
@@ -10,12 +10,12 @@
     "static/media/futuranowheadlinelight-webfont.woff": "./static/media/futuranowheadlinelight-webfont.86f55bad1115533f2c29.woff",
     "static/media/LightsOut.woff": "./static/media/LightsOut.5302171e79ee400f4d70.woff",
     "index.html": "./index.html",
-    "main.f7484582.css.map": "./static/css/main.f7484582.css.map",
-    "main.93cc33a2.js.map": "./static/js/main.93cc33a2.js.map",
+    "main.18742ede.css.map": "./static/css/main.18742ede.css.map",
+    "main.e4996ee8.js.map": "./static/js/main.e4996ee8.js.map",
     "787.2b1abba0.chunk.js.map": "./static/js/787.2b1abba0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7484582.css",
-    "static/js/main.93cc33a2.js"
+    "static/css/main.18742ede.css",
+    "static/js/main.e4996ee8.js"
   ]
 }
