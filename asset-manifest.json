@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.18742ede.css",
-    "main.js": "./static/js/main.e4996ee8.js",
-    "static/js/787.2b1abba0.chunk.js": "./static/js/787.2b1abba0.chunk.js",
-    "static/media/talktome_smaller.png": "./static/media/talktome_smaller.544cd0220dc5fee57f80.png",
-    "static/media/ghost man 100.png": "./static/media/ghost man 100.5c5be315d0e542ad277c.png",
-    "static/media/futuranowheadline-webfont.woff": "./static/media/futuranowheadline-webfont.2c79cc297bf2d1e86241.woff",
-    "static/media/futuranowheadlinemedium-webfont.woff": "./static/media/futuranowheadlinemedium-webfont.ce18914729082b415e54.woff",
-    "static/media/futuranowheadlinelight-webfont.woff": "./static/media/futuranowheadlinelight-webfont.86f55bad1115533f2c29.woff",
-    "static/media/LightsOut.woff": "./static/media/LightsOut.5302171e79ee400f4d70.woff",
-    "index.html": "./index.html",
-    "main.18742ede.css.map": "./static/css/main.18742ede.css.map",
-    "main.e4996ee8.js.map": "./static/js/main.e4996ee8.js.map",
-    "787.2b1abba0.chunk.js.map": "./static/js/787.2b1abba0.chunk.js.map"
+    "main.css": "/static/css/main.db3da3b0.css",
+    "main.js": "/static/js/main.709b454c.js",
+    "static/js/453.6f6b45e3.chunk.js": "/static/js/453.6f6b45e3.chunk.js",
+    "static/media/border_top.png": "/static/media/border_top.4616bf3d824c678caae1.png",
+    "static/media/border_bottom.png": "/static/media/border_bottom.483935d2253641863cad.png",
+    "static/media/glasses.png": "/static/media/glasses.97a667e215b2929c11a4.png",
+    "static/media/border_middle.png": "/static/media/border_middle.8a920e58a5fe647b1774.png",
+    "static/media/Semplicita Light.woff": "/static/media/Semplicita Light.ad8f40eaa18e2700b809.woff",
+    "static/media/Semplicita Bold.woff": "/static/media/Semplicita Bold.5f04e215dcbb5528dc1b.woff",
+    "static/media/Semplicita Medium.woff": "/static/media/Semplicita Medium.06c47ab6298af258812b.woff",
+    "static/media/waze.png": "/static/media/waze.5f81825c77bf9eaf0997.png",
+    "static/media/Niconne-Regular.woff": "/static/media/Niconne-Regular.c9d15b4cc60ff8f63391.woff",
+    "static/media/ParkLaneNF.woff": "/static/media/ParkLaneNF.9cbe57362d357d25a429.woff",
+    "index.html": "/index.html",
+    "static/media/google_maps.svg": "/static/media/google_maps.24b2bcb94349710b7f203c999d593810.svg",
+    "main.db3da3b0.css.map": "/static/css/main.db3da3b0.css.map",
+    "main.709b454c.js.map": "/static/js/main.709b454c.js.map",
+    "453.6f6b45e3.chunk.js.map": "/static/js/453.6f6b45e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18742ede.css",
-    "static/js/main.e4996ee8.js"
+    "static/css/main.db3da3b0.css",
+    "static/js/main.709b454c.js"
   ]
 }
